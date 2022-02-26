@@ -1,5 +1,3 @@
 # live-streaming-infra
 
-- 音響の繋ぎ
-- カメラ周りの繋ぎ
-- SW周り
+![概要図](./diagrams/unchama-home-live-infra.drawio.svg)
